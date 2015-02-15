@@ -93,8 +93,8 @@ public class AlignChannels_  implements PlugIn {
 				
 		//open the chosen imageStack
 		
-		
-		
+		 
+		 
 		 od1 = new DirectoryChooser("SELECT output DIRECTORY");
 		 outDirName = od1.getDirectory(); 
 		 

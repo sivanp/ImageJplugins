@@ -13,7 +13,7 @@ import java.util.Stack;
 
 public class Cell implements Serializable, Comparable<Cell> {
 	/**
-	 * 
+	 *  
 	 */
 	private static final long serialVersionUID = 1L;
 	protected Cells parentCells;
